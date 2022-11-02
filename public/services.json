@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/1vpqtkp/1.jpg",
+        "price": 114,
+        "name": "Electrical System",
+        "details": "loream30"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/6J6fpzk/2.jpg",
+        "price": 215,
+        "name": "Engine Diagnostics",
+        "details": "loream30"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/7bXMmdR/3.jpg",
+        "price": 318,
+        "name": "Auto Car Repair",
+        "details": "loream30"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/MM25Srd/4.jpg",
+        "price": 117,
+        "name": "Electrical System",
+        "details": "loream30"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/Fwk1wpQ/5.jpg",
+        "price": 121,
+        "name": "Engine Diagnostics",
+        "details": "loream30"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/5BH95j5/6.jpg",
+        "price": 148,
+        "name": "Auto Car Repair",
+        "details": "loream30"
+    }
+]
